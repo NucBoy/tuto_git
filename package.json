@@ -1,0 +1,19 @@
+{
+  "name": "tuto_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "epicfile.mjs",
+  "scripts": {
+    "start": "node epicfile.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachahjkl/tuto_git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachahjkl/tuto_git/issues"
+  },
+  "homepage": "https://github.com/sachahjkl/tuto_git#readme"
+}
